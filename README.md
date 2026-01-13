@@ -3,5 +3,5 @@
 <a href="https://github.com/favoriit777/mdk01.03_S/tree/main/pr03">Практическая работа 3</a><br>
 <a href="https://github.com/favoriit777/mdk01.03_S/tree/main/pr04">Практическая работа 4</a><br>
 <a href="https://github.com/favoriit777/mdk01.03_S/tree/main/pr05">Практическая работа 5</a><br>
-<a href="https://https://github.com/favoriit777/mdk01.03_S/tree/main/l11">Лекция11</a><br>
-<a href="https://https://github.com/favoriit777/mdk01.03_S/tree/main/l12">Лекция12</a><br>
+<a href="https://github.com/favoriit777/mdk01.03_S/tree/main/l11">Лекция11</a><br>
+<a href="https://github.com/favoriit777/mdk01.03_S/tree/main/l12">Лекция12</a><br>
